@@ -1,0 +1,4 @@
+This is a simple crypto trading bot programmed to trade primarily Stellar Lumens (XLM) using the Coinbase Pro API
+It only uses the relative strength index (rsi), to determine when to buy or sell. 
+A stop loss feature was also coded into it that triggers a sell when the balance is down 5%
+Sends an email containing the details of the trade placed
